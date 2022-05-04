@@ -1,0 +1,29 @@
+_repo: Aristotles-works-Containing-the-Master-piece-Directions-for-Midwives-and-Counsel-and-Advice-t__67858
+_version: 0.0.1
+alternative_title: The works of Aristotle, the famous philosopher
+creator:
+  author:
+    agent_name: Aristotle, pseud.
+    gutenberg_agent_id: '54497'
+    url: http://www.gutenberg.org/2009/agents/54497
+    wikipedia: https://en.wikipedia.org/wiki/Pseudo-Aristotle
+description: ''
+gutenberg_issued: '2022-04-17'
+identifiers:
+  gutenberg: '67858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Popular -- Early works to 1800'
+- !lcsh 'Gynecology -- Early works to 1800'
+- !lcc 'RG'
+- !lcsh 'Human reproduction -- Early works to 1800'
+- !lcsh 'Obstetrics -- Early works to 1800'
+- GITenberg
+title: 'Aristotle’s works:
+
+  Containing the Master-piece, Directions for Midwives, and Counsel and Advice to
+  Child-bearing Women with Various Useful Remedies'
+url: http://www.gutenberg.org/ebooks/67858
